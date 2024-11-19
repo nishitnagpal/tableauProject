@@ -1,4 +1,4 @@
-# Tableau Project: Interactive House Sales Dashboard
+# Tableau Project: Interactive House-Sales Dashboard
 
 ## View the House Sales Dashboard
 https://nishitnagpal.github.io/tableauProject/
